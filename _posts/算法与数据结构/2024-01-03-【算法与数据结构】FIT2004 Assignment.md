@@ -1,7 +1,7 @@
 ---
 title: 【算法与数据结构】FIT2004 Assignment
 date: 2024-01-03
-categories:
+categories: 算法与数据结构
 tags: [算法与数据结构,Python]
 img_path: /assets/img/
 ---
